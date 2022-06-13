@@ -6,7 +6,9 @@ window.onload = function() {
     let a = 15749;
     let b = 95000;
     let x = 39857;
+    console.log(skaiciuSudejimas(generateRandom(),a))
     console.log(skaiciuSudejimas(generateRandom(),b))
+    console.log(skaiciuSudejimas(generateRandom(),x))
     console.log(generateRandom())
 }
 
